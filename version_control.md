@@ -15,7 +15,7 @@ git --version
 
 ## Create a GitHub account
 
-Create a free GitHub account by going to [G]itHub.com](http://www.github.com).   To complete signup, you'll need to verify your email address.
+Create a free GitHub account by going to [GitHub.com](http://www.github.com).   To complete signup, you'll need to verify your email address.
 
 ### Configure Multi-factor Authentication for your GitHub account
 
