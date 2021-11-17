@@ -105,7 +105,7 @@ In the key field, paste your key. Click Add SSH Key. Confirm your password if pr
 
 Test your connection with the following command
 ```
-ssh -T git@github.co
+ssh -T git@github.com
 ```
 
 You should see a warning about the authenticity of the host.  Click yes that you are okay to continue.  
