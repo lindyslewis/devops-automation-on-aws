@@ -1,4 +1,4 @@
-# devops-automation-on-aws
+# DevOps Automation on AWS Consulting
 My personal learning paths and knowledge base for DevOps Automation on AWS Consulting.
 
 Let's break it down.
