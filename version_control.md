@@ -76,10 +76,10 @@ If you get an error that the file does not exist, create one now.
 touch ~/.ssh/config
 ```
 
-Add the following text to your config file.  
+Add the following text to your config file.  Update the text with your username. 
 ```
 Host github.com
-  User lindyslewis
+  User put_your_username_here
   IdentityFile ~/.ssh/id_rsa
 ```
 
