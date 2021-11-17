@@ -11,7 +11,7 @@ Development. Operations. DevOps Culture. Automation. AWS. Consulting.  It's a lo
 - Software Development
 - Software Testing & QA
 - SDLC
-- Version Control
+- [Version Control](https://github.com/lindyslewis/devops-automation-on-aws/blob/main/version_control.md)
 - Databases
 
 ## Operations
